@@ -1,9 +1,9 @@
 footer {
-	width: 100vw;
+  width: 100vw;
   display: flex;
   justify-content: space-between; /* Aligns content on either side */
-  align-items: center; 
-  padding: 20px; /* Adds padding inside the footer */
+  align-items: center;
+  padding: 20px 50px; /* Adds padding inside the footer */
   background-color: #f8f8f8; /* Light gray background color */
   border-top: 1px solid #ddd; /* Top border for separation */
 }
