@@ -1,8 +1,52 @@
-## 🚀 Live Demo
+🏡 Airbnb Clone – Full-Stack Web Application
+📌 Project Overview
+This project is a full-stack web application developed as the final project during my Web Development course at Red Eye School's Web Circle. The application is a dynamic clone of the Airbnb platform, focusing primarily on front-end development while incorporating full-stack functionalities.
 
-You can try out the **Demo Version** of the application here:
+🛠️ Technologies Used
+Frontend: HTML, CSS, JavaScript
 
-- **[Demo Version (Frontend)](https://f24-web-circle-berlin.netlify.app/)** — Click to explore the app live!
+Backend: Python, Flask
+
+Database: MySQL
+
+ORM: SQLAlchemy
+
+Hosting: Netlify (Frontend), Heroku (Backend)
+
+🔑 Key Features
+1. User Authentication
+Sign Up / Login: Users can create accounts and log in securely.
+
+Session Management: Persistent user sessions for a seamless experience.
+
+2. Property Listings
+Browse Listings: View available properties with details like location, price, and amenities.
+
+Search and Filters: Search for properties based on criteria such as location, price range, and amenities.
+
+3. Booking System
+Availability Calendar: Check property availability before booking.
+
+Reservation: Book properties for selected dates.
+
+4. User Profiles
+Profile Management: Users can view and edit their profiles.
+
+Booking History: Access past and upcoming bookings.
+
+5. Admin Dashboard
+Manage Listings: Admins can add, edit, or remove property listings.
+
+User Management: Admins can manage user accounts and permissions.
+
+⚙️ Dynamic Functionality
+While the project emphasizes front-end development, it integrates dynamic functionalities through:
+
+Backend Integration: Flask handles server-side logic and database interactions.
+
+Database Operations: MySQL stores user data, property listings, and bookings.
+
+Dynamic Content Rendering: Pages are rendered dynamically based on user interactions and database content.
 
 
 ## Getting Started
